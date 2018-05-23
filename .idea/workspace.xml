@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb38240f-6443-451a-ad6d-a9daa0b05cf6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="commonitilcost.class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inc/commonitilcost.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="518" column="51" selection-start-line="518" selection-start-column="51" selection-end-line="518" selection-end-column="51" />
+              <folding>
+                <element signature="n#getTabNameForItem#0;n#CommonITILCost#0;n#!!top" />
+                <element signature="n#displayTabContentForItem#0;n#CommonITILCost#0;n#!!top" />
+                <element signature="n#getSearchOptionsNew#0;n#CommonITILCost#0;n#!!top" />
+                <element signature="n#getSearchOptionsToAddNew#0;n#CommonITILCost#0;n#!!top" />
+                <element signature="e#26303#26455#0#PHP" />
+                <element signature="e#26498#26588#0#PHP" />
+                <element signature="e#28783#33974#0#PHP" />
+                <marker date="1525853294412" expanded="true" signature="9833:9970" ph="SELECT SUM(`... ${$this-&gt;getTable()}" />
+                <marker date="1525853294412" expanded="true" signature="10303:10476" ph="SELECT * FRO... ${$this-&gt;getTable()}" />
+                <marker date="1525853294412" expanded="true" signature="16597:16631" ph="SELECT `cate... glpi_custom_cost_category" />
+                <marker date="1525853294412" expanded="true" signature="17213:17242" ph="SELECT * FRO... custom_produits" />
+                <marker date="1525853294412" expanded="true" signature="26843:27000" ph="SELECT * FRO... ${static::getTable()}" />
+                <marker date="1525853294412" expanded="true" signature="34383:34545" ph="SELECT * FRO... ${getTableForItemtype($type)}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ticket.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/ticket.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87108">
+              <caret line="5153" column="62" selection-start-line="5153" selection-start-column="48" selection-end-line="5153" selection-end-column="62" />
+              <folding>
+                <marker date="1525731162258" expanded="true" signature="184226:184261" ph="..." />
+                <marker date="1525731162258" expanded="true" signature="184226:184302" ph="..." />
+                <marker date="1525731162258" expanded="true" signature="192618:192624" ph=" " />
+                <marker date="1525731162258" expanded="true" signature="192650:192662" ph="..." />
+                <marker date="1525731162258" expanded="true" signature="199209:199221" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ticket.form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/ticket.form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+              <folding>
+                <marker date="1525310212760" expanded="true" signature="1889:1987" ph="INSERT INTO custom_tickets_societe... " />
+                <marker date="1525310212760" expanded="true" signature="2832:2924" ph="UPDATE custo... " />
+                <marker date="1525310212760" expanded="true" signature="4140:4193" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ticketcost.form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/ticketcost.form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+              <folding>
+                <marker date="1525730119144" expanded="true" signature="1500:1609" ph="INSERT INTO custom_ticket_category... " />
+                <marker date="1525730119144" expanded="true" signature="2000:2057" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dolibarExportGenerator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dolibarExport/dolibarExportGenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <marker date="1526300407680" expanded="true" signature="271:1085" ph="INSERT INTO custom_export_worksheet... " />
+                <marker date="1526300407680" expanded="true" signature="277:439" ph="INSERT INTO custom_export_worksheet... " />
+                <marker date="1526300407680" expanded="true" signature="277:867" ph="INSERT INTO custom_export_worksheet... " />
+                <marker date="1526300407680" expanded="true" signature="441:867" ph="SELECT GTC.t... custom_ticket_category" />
+                <marker date="1526300407680" expanded="true" signature="1016:1084" ph="SELECT * FRO... custom_export_worksheet" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dolibarExport/login.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="config_db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config_db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dolibarExport/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dropdown_status</find>
+      <find>mysqli_</find>
+      <find>ticketcosts</find>
+      <find>INSERT INTO</find>
+      <find>ticket.form.php</find>
+      <find>Add a new cost</find>
+      <find>ticketcost</find>
+      <find>insert</find>
+      <find>$rightna</find>
+      <find>UPDATE</find>
+      <find>vsubmit</find>
+      <find>custom_ticket</find>
+      <find>tab_cadre_fixehov</find>
+      <find>log</find>
+      <find>New Ticket</find>
+      <find>Task Done</find>
+      <find>Opening</find>
+      <find>Actor</find>
+      <find>custom_ticket_category</find>
+      <find>DELETE</find>
+      <find>dust</find>
+      <find>delete</find>
+      <find>title</find>
+      <find>Description</find>
+      <find>getMandatoryMark</find>
+      <find>societe</find>
+      <find>taskCategory</find>
+      <find>task</find>
+      <find>image</find>
+      <find>c_logo</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\glpi\inc</dir>
+      <dir>C:\xampp\htdocs\glpi</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/inc/commondbtm.class.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dolibarExport/dolibarExportGenerator.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dolibarExport/login.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/ticketcost.form.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/dolibarExport/db.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/inc/ticket.class.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/inc/commonitilcost.class.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/inc/projectcost.class.php" />
+        <option value="$PROJECT_DIR$/front/login.php" />
+        <option value="$PROJECT_DIR$/inc/commondbtm.class.php" />
+        <option value="$PROJECT_DIR$/install/update_0831_084.php" />
+        <option value="$PROJECT_DIR$/test/test.php" />
+        <option value="$PROJECT_DIR$/test/dbtest.php" />
+        <option value="$PROJECT_DIR$/test/logout.php" />
+        <option value="$PROJECT_DIR$/test/viewtest.php" />
+        <option value="$PROJECT_DIR$/test/login.php" />
+        <option value="$PROJECT_DIR$/dolibarExport/viewtest.php" />
+        <option value="$PROJECT_DIR$/dolibarExport/login.php" />
+        <option value="$PROJECT_DIR$/dolibarExport/logout.php" />
+        <option value="$PROJECT_DIR$/front/massiveaction.php" />
+        <option value="$PROJECT_DIR$/front/ticket.form.php" />
+        <option value="$PROJECT_DIR$/front/ticketcost.form.php" />
+        <option value="$PROJECT_DIR$/inc/ticket.class.php" />
+        <option value="$PROJECT_DIR$/inc/commonitilcost.class.php" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/config/config_db.php" />
+        <option value="$PROJECT_DIR$/dolibarExport/db.php" />
+        <option value="$PROJECT_DIR$/dolibarExport/dolibarExportGenerator.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="glpi" type="cbb8eebc:String" user="glpi" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="glpi" type="cbb8eebc:String" user="glpi" />
+              <item name="dolibarExport" type="cbb8eebc:String" user="dolibarExport" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ticket.php&#9;FILE&#9;file://C:/xampp/htdocs/glpi/front/ticket.php&#10;login.php&#9;FILE&#9;file://C:/xampp/htdocs/glpi/front/login.php" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog/laravelProject" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\glpi\pics" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb38240f-6443-451a-ad6d-a9daa0b05cf6" name="Default" comment="" />
+      <created>1523648766846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523648766846</updated>
+      <workItem from="1523648776235" duration="15878000" />
+      <workItem from="1523897896996" duration="17983000" />
+      <workItem from="1524077554810" duration="8452000" />
+      <workItem from="1524240198629" duration="578000" />
+      <workItem from="1524253762649" duration="15298000" />
+      <workItem from="1524493610474" duration="20167000" />
+      <workItem from="1524586536088" duration="3389000" />
+      <workItem from="1524703136962" duration="1144000" />
+      <workItem from="1525296354321" duration="13512000" />
+      <workItem from="1525727654897" duration="4074000" />
+      <workItem from="1525852114395" duration="2369000" />
+      <workItem from="1525932027956" duration="2699000" />
+      <workItem from="1526036382106" duration="633000" />
+      <workItem from="1526278955045" duration="13096000" />
+      <workItem from="1526387036920" duration="601000" />
+      <workItem from="1526459133302" duration="411000" />
+      <workItem from="1526473748255" duration="13000" />
+      <workItem from="1526559333645" duration="601000" />
+      <workItem from="1526574102530" duration="12000" />
+      <workItem from="1526908114752" duration="675000" />
+      <workItem from="1527008906607" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121833000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32933334" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1515625" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298292" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/commonitilcost.class.php</url>
+          <line>383</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/commonitilcost.class.php</url>
+          <line>576</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/commonitilcost.class.php</url>
+          <line>531</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/front/ticket.form.php</url>
+          <line>64</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/massiveaction.class.php</url>
+          <line>553</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/commonitilcost.class.php</url>
+          <line>543</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/zendframework/zend-cache/src/Storage/Adapter/Dba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5185">
+          <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/commondbchild.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/cliupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/dropdown.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="1451" column="26" selection-start-line="1451" selection-start-column="26" selection-end-line="1451" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/html.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1493">
+          <caret line="2547" column="19" selection-start-line="2547" selection-start-column="19" selection-end-line="2547" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/add_creation_date.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/resources/install/update_231_232.php" />
+    <entry file="file://$PROJECT_DIR$/inc/includes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/tickettemplate.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/tickettemplate.form.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/tickettemplatehiddenfield.form.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/tickettemplatepredefinedfield.form.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/ticket_ticket.form.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/dropdown.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/dropdown.common.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/dropdown.common.form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/cron.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/entitytreesons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="74" column="82" selection-start-line="74" selection-start-column="82" selection-end-line="74" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/update_0831_084.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="742" selection-start-line="742" selection-end-line="742" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticket_ticket.class.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticketfollowup.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticketrecurrent.class.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticketsatisfaction.class.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/checkdb.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/db.php" />
+    <entry file="file://$PROJECT_DIR$/inc/session.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1111" column="7" selection-start-line="1111" selection-start-column="7" selection-end-line="1111" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/_log/mail.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticket_user.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dolibarExport/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="65" lean-forward="true" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php" />
+    <entry file="file://$PROJECT_DIR$/inc/commonitiltask.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27948">
+          <caret line="1936" column="6" lean-forward="true" selection-start-line="1936" selection-start-column="6" selection-end-line="1936" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/massiveaction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="863">
+          <caret line="271" column="10" lean-forward="true" selection-start-line="271" selection-start-column="10" selection-end-line="271" selection-end-column="10" />
+          <folding>
+            <element signature="e#2617#5381#0#PHP" />
+            <element signature="e#5398#8982#0#PHP" />
+            <marker date="1519916256000" expanded="true" signature="17175:17181" ph=" " />
+            <marker date="1519916256000" expanded="true" signature="30010:30016" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/massiveaction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/ticket_user.form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/commondbtm.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="1801" lean-forward="true" selection-start-line="1801" selection-end-line="1801" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/ticket.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticketcost.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pics/fd_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/wysiwyg/logoImg-6gOube.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="2695" column="19" lean-forward="true" selection-start-line="2695" selection-start-column="19" selection-end-line="2695" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test123.php" />
+    <entry file="file://$PROJECT_DIR$/dolibarExport/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dolibarExport/login.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/ticketcost.form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="52" column="49" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+          <folding>
+            <marker date="1525730119144" expanded="true" signature="1500:1609" ph="INSERT INTO custom_ticket_category... " />
+            <marker date="1525730119144" expanded="true" signature="2000:2057" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/ticket.form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+          <folding>
+            <marker date="1525310212760" expanded="true" signature="1889:1987" ph="INSERT INTO custom_tickets_societe... " />
+            <marker date="1525310212760" expanded="true" signature="2832:2924" ph="UPDATE custo... " />
+            <marker date="1525310212760" expanded="true" signature="4140:4193" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticket.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87108">
+          <caret line="5153" column="62" selection-start-line="5153" selection-start-column="48" selection-end-line="5153" selection-end-column="62" />
+          <folding>
+            <marker date="1525731162258" expanded="true" signature="184226:184261" ph="..." />
+            <marker date="1525731162258" expanded="true" signature="184226:184302" ph="..." />
+            <marker date="1525731162258" expanded="true" signature="192618:192624" ph=" " />
+            <marker date="1525731162258" expanded="true" signature="192650:192662" ph="..." />
+            <marker date="1525731162258" expanded="true" signature="199209:199221" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dolibarExport/dolibarExportGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1526300407680" expanded="true" signature="271:1085" ph="INSERT INTO custom_export_worksheet... " />
+            <marker date="1526300407680" expanded="true" signature="277:439" ph="INSERT INTO custom_export_worksheet... " />
+            <marker date="1526300407680" expanded="true" signature="277:867" ph="INSERT INTO custom_export_worksheet... " />
+            <marker date="1526300407680" expanded="true" signature="441:867" ph="SELECT GTC.t... custom_ticket_category" />
+            <marker date="1526300407680" expanded="true" signature="1016:1084" ph="SELECT * FRO... custom_export_worksheet" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/commonitilcost.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="518" column="51" selection-start-line="518" selection-start-column="51" selection-end-line="518" selection-end-column="51" />
+          <folding>
+            <element signature="n#getTabNameForItem#0;n#CommonITILCost#0;n#!!top" />
+            <element signature="n#displayTabContentForItem#0;n#CommonITILCost#0;n#!!top" />
+            <element signature="n#getSearchOptionsNew#0;n#CommonITILCost#0;n#!!top" />
+            <element signature="n#getSearchOptionsToAddNew#0;n#CommonITILCost#0;n#!!top" />
+            <element signature="e#26303#26455#0#PHP" />
+            <element signature="e#26498#26588#0#PHP" />
+            <element signature="e#28783#33974#0#PHP" />
+            <marker date="1525853294412" expanded="true" signature="9833:9970" ph="SELECT SUM(`... ${$this-&gt;getTable()}" />
+            <marker date="1525853294412" expanded="true" signature="10303:10476" ph="SELECT * FRO... ${$this-&gt;getTable()}" />
+            <marker date="1525853294412" expanded="true" signature="16597:16631" ph="SELECT `cate... glpi_custom_cost_category" />
+            <marker date="1525853294412" expanded="true" signature="17213:17242" ph="SELECT * FRO... custom_produits" />
+            <marker date="1525853294412" expanded="true" signature="26843:27000" ph="SELECT * FRO... ${static::getTable()}" />
+            <marker date="1525853294412" expanded="true" signature="34383:34545" ph="SELECT * FRO... ${getTableForItemtype($type)}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

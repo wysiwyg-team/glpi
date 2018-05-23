@@ -1,0 +1,251 @@
+2018-04-14 03:01:00 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: jgjg
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'jgjg' at line 1
+  Backtrace :
+  inc\commonitilcost.class.php:533                   
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-17 00:21:08 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT `glpi_ticketcosts`.*
+                FROM `glpi_ticketcosts`
+                SELECT * FROM `glpi_tickets`
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `glpi_tickets`' at line 3
+  Backtrace :
+  inc\commondbtm.class.php:198                       
+  inc\commonitilcost.class.php:531                   CommonDBTM->getFromDBByQuery()
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-17 00:28:10 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT `glpi_ticketcosts`.*
+                FROM `glpi_ticketcosts`
+                SELECT * FROM `glpi_tickets`
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `glpi_tickets`' at line 3
+  Backtrace :
+  inc\commondbtm.class.php:198                       
+  inc\commonitilcost.class.php:531                   CommonDBTM->getFromDBByQuery()
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-17 00:32:27 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT `glpi_ticketcosts`.*
+                FROM `glpi_ticketcosts`
+                SELECT * FROM  glpi_tickets
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM  glpi_tickets' at line 3
+  Backtrace :
+  inc\commondbtm.class.php:198                       
+  inc\commonitilcost.class.php:532                   CommonDBTM->getFromDBByQuery()
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-17 00:34:42 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT `glpi_ticketcosts`.*
+                FROM `glpi_ticketcosts`SELECT `glpi_tickets`.* FROM  `glpi_tickets`
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT `glpi_tickets`.* FROM  `glpi_tickets`' at line 2
+  Backtrace :
+  inc\commondbtm.class.php:203                       
+  inc\commonitilcost.class.php:532                   CommonDBTM->getFromDBByQuery()
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-17 00:34:55 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT `glpi_ticketcosts`.*
+                FROM `glpi_ticketcosts`SELECT `glpi_tickets`.* FROM  `glpi_tickets`
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT `glpi_tickets`.* FROM  `glpi_tickets`' at line 2
+  Backtrace :
+  inc\commondbtm.class.php:203                       
+  inc\commonitilcost.class.php:532                   CommonDBTM->getFromDBByQuery()
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-17 00:35:16 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT `glpi_ticketcosts`.*
+                FROM `glpi_ticketcosts`SELECT * FROM  `glpi_tickets`
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM  `glpi_tickets`' at line 2
+  Backtrace :
+  inc\commondbtm.class.php:203                       
+  inc\commonitilcost.class.php:532                   CommonDBTM->getFromDBByQuery()
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-04-18 23:44:39 [2@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (15,)
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:52                       DBmysql->queryOrDie()
+2018-04-18 23:47:03 [2@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (16,)
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:52                       DBmysql->queryOrDie()
+2018-04-21 02:30:15 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (19,none)
+  Error: Unknown column 'none' in 'field list'
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:53                       DBmysql->queryOrDie()
+2018-04-21 02:30:40 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (20,none)
+  Error: Unknown column 'none' in 'field list'
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:53                       DBmysql->queryOrDie()
+2018-04-21 02:30:50 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (21,none)
+  Error: Unknown column 'none' in 'field list'
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:53                       DBmysql->queryOrDie()
+2018-04-23 18:56:49 [4@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: SELECT 'tech' AS currentuser,
+                        `glpi_problems`.`entities_id`, `glpi_problems`.`is_recursive`,  `glpi_problems`.`name` AS `ITEM_0`,
+                        `glpi_problems`.`id` AS `ITEM_0_id`,
+                        `glpi_problems`.`id` AS `ITEM_0_id`, `glpi_problems`.`content` AS `ITEM_0_content`, `glpi_problems`.`status` AS `ITEM_0_status`, `glpi_problems`.`content` AS `ITEM_1`,  `glpi_problems`.`status` AS `ITEM_2`,  `glpi_problems`.`date_mod` AS `ITEM_3`,  `glpi_problems`.`date` AS `ITEM_4`,  `glpi_problems`.`priority` AS `ITEM_5`,  `glpi_itilcategories`.`completename` AS `ITEM_6`,  `glpi_problems`.`time_to_resolve` AS `ITEM_7`,  `glpi_problems`.`status` AS `ITEM_7_status`, `glpi_problems`.`id` AS id  FROM `glpi_problems` LEFT JOIN `glpi_problems_users`  AS `glpi_problems_users_d1524bb2ea1d461ab90aed3b5f0e7e60`
+                                             ON (`glpi_problems`.`id` = `glpi_problems_users_d1524bb2ea1d461ab90aed3b5f0e7e60`.`problems_id`
+                                                 AND `glpi_problems_users_d1524bb2ea1d461ab90aed3b5f0e7e60`.`type` = 1 ) LEFT JOIN `glpi_problems_users`  AS `glpi_problems_users_d86d1fe2a1ea996e3820de82e6aa57e8`
+                                             ON (`glpi_problems`.`id` = `glpi_problems_users_d86d1fe2a1ea996e3820de82e6aa57e8`.`problems_id`
+                                                 AND `glpi_problems_users_d86d1fe2a1ea996e3820de82e6aa57e8`.`type` = 3 ) LEFT JOIN `glpi_problems_users`  AS `glpi_problems_users_819efb92c8b927b345e489211ec8e43b`
+                                             ON (`glpi_problems`.`id` = `glpi_problems_users_819efb92c8b927b345e489211ec8e43b`.`problems_id`
+                                                 AND `glpi_problems_users_819efb92c8b927b345e489211ec8e43b`.`type` = 2 )LEFT JOIN `glpi_itilcategories` 
+                                          ON (`glpi_problems`.`itilcategories_id` = `glpi_itilcategories`.`id`
+                                              ) WHERE ( `glpi_problems_users_d1524bb2ea1d461ab90aed3b5f0e7e60`.users_id = '4'
+                                 OR `glpi_problems_users_d86d1fe2a1ea996e3820de82e6aa57e8`.users_id = '4'
+                                 OR `glpi_problems_users_819efb92c8b927b345e489211ec8e43b`.users_id = '4'
+                                 OR `glpi_problems`.`users_id_recipient` = '4'
+                                 OR `glpi_groups_problems_d1524bb2ea1d461ab90aed3b5f0e7e60`.groups_id IN ()
+                                 OR `glpi_groups_problems_d86d1fe2a1ea996e3820de82e6aa57e8`.groups_id IN ()
+                                 OR `glpi_groups_problems_819efb92c8b927b345e489211ec8e43b`.groups_id IN ())  AND `glpi_problems`.`is_deleted` = '0'  AND (   `glpi_problems`.`status` IN ('1','7','2','3','4') ) ORDER BY ITEM_3 DESC 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+                                 OR `glpi_groups_problems_d86d1fe2a1ea996e3820' at line 16
+  Backtrace :
+  inc\search.class.php:929                           
+  inc\search.class.php:98                            Search::constructDatas()
+  inc\search.class.php:81                            Search::showList()
+  front\problem.php:43                               Search::show()
+2018-04-24 02:56:22 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (28,none)
+  Error: Unknown column 'none' in 'field list'
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:53                       DBmysql->queryOrDie()
+2018-04-24 03:37:53 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_category (ticketcosts_id, cost_category) VALUES (31,none)
+  Error: Unknown column 'none' in 'field list'
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticketcost.form.php:53                       DBmysql->queryOrDie()
+2018-05-03 00:56:58 [2@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_ticket_societe (tickets_id, societe_id) VALUES (14,)
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticket.form.php:70                           DBmysql->queryOrDie()
+2018-05-03 01:50:29 [2@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: UPDATE custom_tickets_societe SET societe_id =  WHERE tickets_id = 23 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE tickets_id = 23' at line 1
+  Backtrace :
+  front\ticket.form.php:100                          
+2018-05-07 23:39:54 [2@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: UPDATE custom_tickets_societe SET societe_id = 1? selected :  WHERE tickets_id = 11 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? selected :  WHERE tickets_id = 11' at line 1
+  Backtrace :
+  front\ticket.form.php:100                          
+2018-05-07 23:57:07 [9@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: UPDATE custom_ticket_category SET cost_category =  WHERE ticketcosts_id = 37 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE ticketcosts_id = 37' at line 1
+  Backtrace :
+  front\ticketcost.form.php:79                       
+2018-05-07 23:59:31 [2@DESKTOP-RA5UTA9]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_tickets_societe (tickets_id, societe_id) VALUES (28,)
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticket.form.php:70                           DBmysql->queryOrDie()
+2018-05-09 10:01:45 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: SELECT * FROM custom_produits
+  Error: Table 'test.custom_produits' doesn't exist
+  Backtrace :
+  inc\commonitilcost.class.php:549                   
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-05-09 10:02:06 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: SELECT * FROM custom_produits
+  Error: Table 'test.custom_produits' doesn't exist
+  Backtrace :
+  inc\commonitilcost.class.php:549                   
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-05-09 10:02:09 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: SELECT * FROM custom_produits
+  Error: Table 'test.custom_produits' doesn't exist
+  Backtrace :
+  inc\commonitilcost.class.php:549                   
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-05-09 10:02:11 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: SELECT * FROM custom_produits
+  Error: Table 'test.custom_produits' doesn't exist
+  Backtrace :
+  inc\commonitilcost.class.php:549                   
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-05-09 10:08:06 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: SELECT * FROM custom_produits
+  Error: Table 'test.custom_produits' doesn't exist
+  Backtrace :
+  inc\commonitilcost.class.php:549                   
+  ajax\viewsubitem.php:55                            CommonITILCost->showForm()
+2018-05-10 08:15:28 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: UPDATE custom_tickets_societe SET societe_id =  WHERE tickets_id = 29 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE tickets_id = 29' at line 1
+  Backtrace :
+  front\ticket.form.php:100                          
+2018-05-10 08:31:42 [2@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_tickets_societe (tickets_id, societe_id) VALUES (30,)
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticket.form.php:70                           DBmysql->queryOrDie()
+2018-05-10 08:33:26 [2@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: INSERT INTO custom_tickets_societe (tickets_id, societe_id) VALUES (31,)
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+  Backtrace :
+  inc\dbmysql.class.php:216                          
+  front\ticket.form.php:70                           DBmysql->queryOrDie()
+2018-05-14 09:52:26 [9@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: UPDATE custom_ticket_category SET cost_category =  WHERE ticketcosts_id = 40 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE ticketcosts_id = 40' at line 1
+  Backtrace :
+  front\ticketcost.form.php:79                       
+2018-05-14 11:14:12 [2@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: INSERT
+                   INTO `glpi_tickets_users` (`users_id`,`use_notification`,`alternative_email`,`type`,`tickets_id`) VALUES ('9','1','','2','33')
+  Error: Duplicate entry '33-2-9-' for key 'unicity'
+  Backtrace :
+  inc\commondbtm.class.php:522                       
+  inc\commondbtm.class.php:960                       CommonDBTM->addToDB()
+  inc\commonitilobject.class.php:758                 CommonDBTM->add()
+  inc\ticket.class.php:1370                          CommonITILObject->prepareInputForUpdate()
+  inc\commondbtm.class.php:1189                      Ticket->prepareInputForUpdate()
+  front\ticket.form.php:81                           CommonDBTM->update()
+2018-05-14 11:14:18 [2@DESKTOP-7BIHDPC]
+  *** MySQL query error:
+  SQL: UPDATE custom_tickets_societe SET societe_id =  WHERE tickets_id = 33 
+  Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE tickets_id = 33' at line 1
+  Backtrace :
+  front\ticket.form.php:100                          
